@@ -17,11 +17,3 @@ function newElement() {
 });
 
 
-/*var list = document.querySelector("ul").children;
-list.addEventListener('click', function(ev) 
-document.querySelector("ul").removechild
-)
-
-/*var item = document.getElementById(myUL.value);
-/*            a.removeChild(item);
-/*)})*/
